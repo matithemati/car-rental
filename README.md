@@ -12,6 +12,6 @@ Technologies used:
 Live demo: http://furtak.tech/
 
 For payments testing please use a 'Test card':
-Card Nr: 4444 3333 2222 1111
-Exp. date: 01/21
-CCV: 123
+- Card Nr: 4444 3333 2222 1111
+- Exp. date: 01/21
+- CCV: 123
