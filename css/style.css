@@ -1,0 +1,71 @@
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  height: 100vh;
+  background-image: url("../assets/header.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+nav {
+  border-bottom: 2px solid white;
+}
+
+nav li {
+  cursor: pointer;
+}
+
+header button {
+  background: transparent;
+  border: 2px solid white;
+  color: white;
+  padding: 5px;
+  font-size: 26px;
+}
+
+header button:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.card img {
+  height: 250px;
+}
+
+#reservation {
+  background-image: url("../assets/reservation.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#reservation h1 {
+  color: #a30909;
+}
+
+#reservation label {
+  font-weight: bold;
+}
+
+#up-button {
+  display: none;
+  position: fixed;
+  right: 30px;
+  bottom: 20px;
+  z-index: 100;
+  outline: none;
+  border: none;
+  background: url("../assets/arr_up.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60px;
+  width: 60px;
+  cursor: pointer;
+}
+
+.linkedin {
+  color: #0077b5;
+}
