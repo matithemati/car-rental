@@ -15,3 +15,8 @@ For payments testing please use a 'Test card':
 - Card Nr: 4444 3333 2222 1111
 - Exp. date: 01/21
 - CCV: 123
+
+Admin panel: http://furtak.tech/admin/login.html
+
+- Login: admin
+- Password: admin1234
