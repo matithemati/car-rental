@@ -4,6 +4,7 @@ Simple fully-responsive car rental website with PayU payments implemented.
 
 Technologies used:
 - PHP 7
+- MySql
 - HTML
 - CSS
 - Bootstrap
@@ -20,3 +21,8 @@ Admin panel: http://furtak.tech/admin/login.html
 
 - Login: admin
 - Password: admin1234
+
+Known Issues:
+- Database scheduler to remove past reservations is not working on live demo (web hosting doesn't provide sufficent privilages),
+- Cost isn't calculated when we don't click the 'Reserve' button under the car photo,
+- ...
